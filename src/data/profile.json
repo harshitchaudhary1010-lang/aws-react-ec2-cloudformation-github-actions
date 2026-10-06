@@ -1,28 +1,37 @@
 {
   "name": "Harshit",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
+  "photo": "car.",
   "roll": "4447",
   "department": "Computer Engineering",
   "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
-  "gpa": "4.00",
+  "email": "harshitchaudhary@gmail.com",
+  "gpa": "3.00",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/harshitchaudhary1010-lang",
+    "linkedin": "www.linkedin.com/in/harshit-chaudhary1010"
   },
   "quotes": [
-    "Stay hungry, stay foolish.",
-    "Success doesn't come to you, you go to it.",
-    "Small progress every day leads to big results.",
-    "Don't watch the clock; do what it does. Keep going.",
-    "Your only limit is your mind.",
-    "Push yourself because no one else is going to do it for you.",
-    "Dream it. Build it. Achieve it.",
-    "Hard work beats talent when talent doesn't work hard.",
-    "Failure is not the opposite of success; it is part of success.",
-    "Code your future one line at a time."
+    "Keep learning, keep growing, and never stop exploring.",
+
+"Success begins when you decide to take action.",
+
+"Every small step you take brings you closer to your goals.",
+
+"Keep moving forward, even when progress feels slow.",
+
+"Your mindset can be your greatest strength or your biggest barrier.",
+
+"Challenge yourself today to become better tomorrow.",
+
+"Imagine it. Create it. Make it happen.",
+
+"Consistent effort can turn ordinary skills into extraordinary results.",
+
+"Every setback is another opportunity to learn and grow.",
+
+"Build your future one line of code at a time."
   ]
 }
